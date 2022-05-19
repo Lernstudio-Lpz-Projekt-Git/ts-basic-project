@@ -1,4 +1,4 @@
-// Klasse der Mitarbeiter erbt von Person
+// Klasse der Mitarbeiter erbt von der Klasse Person
 import {Person} from './Person';
 
 class Student extends Person {
